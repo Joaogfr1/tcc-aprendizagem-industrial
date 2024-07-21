@@ -1,0 +1,76 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+main{
+    padding: 10px;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'poppins', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 30px;
+}
+
+
+.titulo{
+    display: flex;
+    margin-top: 10px;
+    font-family: 'poppins', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 25px;
+
+}
+
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'poppins', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+.content1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.painel{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+
+.content2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.imagem-contator{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    border-radius: 10px;
+}

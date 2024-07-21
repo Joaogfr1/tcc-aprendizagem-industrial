@@ -1,0 +1,15 @@
+@media(max-width: 550px) {
+    .content1{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .painel{
+        width: 170px;
+        height: 200px;
+        display: flex;
+        border-radius: 10px;
+        margin: 5px;
+    }
+
+}

@@ -1,0 +1,59 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'merriweather', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 30px;
+}
+
+main{
+    padding: 10px;
+}
+
+.titulo{
+    display: flex;
+    margin-top: 10px;
+    font-family: 'poppins', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 25px;
+
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'poppins', sans-serif;
+    text-shadow: #FDB60F 2px 2px 2px;
+    font-size: 30px;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.motor1{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    border-radius: 10px;
+}

@@ -1,0 +1,12 @@
+@media(min-width: 550px){
+    .titulo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        font-family: 'poppins', sans-serif;
+        text-shadow: #FDB60F 2px 2px 2px;
+        font-size: 25px;
+    
+    }
+}
